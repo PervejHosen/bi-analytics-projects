@@ -8,9 +8,6 @@ For my current work, see [pervejhosen.com](https://pervejhosen.com).
 | Project | Tools | Folder |
 |---|---|---|
 | Maven Market analysis | Power BI, DAX, star schema | [power-bi/maven-market](power-bi/maven-market) |
-| Superstore sales dashboard | Excel, Power Query, pivot tables | [excel/superstore-sales](excel/superstore-sales) |
-| HR attrition dashboard | Excel, pivot tables, KPIs | [excel/hr-analytics](excel/hr-analytics) |
-| Airbnb Europe analysis | Snowflake SQL | [sql/airbnb-europe-snowflake](sql/airbnb-europe-snowflake) |
 | Pizza sales analysis | BigQuery SQL, Looker Studio | [sql/pizza-sales-bigquery](sql/pizza-sales-bigquery) |
 | Google Merchandise Store | GA4, Looker Studio | [ga4-looker-studio/google-merch-store](ga4-looker-studio/google-merch-store) |
 | Employee churn pilot | BigQuery, Python, PyCaret, Looker Studio | [bigquery-ml/employee-churn](bigquery-ml/employee-churn) |
