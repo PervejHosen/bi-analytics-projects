@@ -1,24 +1,19 @@
-# PowerBI-Project
-#### Maven Market Analysis
+# BI & Analytics Projects
 
-* After learning a while my 2nd project in learning data analysis. 
-* A very powerful and advanced tools named PowerBI, often called as steroids version of excel.
-* I have learn how to Normalized Table data.
-* Creating connection model as (Star schema) & (Snowflake schema).
-* Custom Column and 30+ advance Dax measures.
-* In this project i used 10+ Custom column and 20+ Dax measure.
+My early business intelligence work from 2023, one folder per project. Each folder has its own README with the
+task, the approach and screenshots of the result.
 
-#### Findings:
+For my current work, see [pervejhosen.com](https://pervejhosen.com).
 
-![Screenshot (13)](https://github.com/PervejHosen/PowerBI-Project/assets/117522848/ccc0a9b2-4b5c-4dc8-99ab-11820802e0b2)
+| Project | Tools | Folder |
+|---|---|---|
+| Maven Market analysis | Power BI, DAX, star schema | [power-bi/maven-market](power-bi/maven-market) |
+| Superstore sales dashboard | Excel, Power Query, pivot tables | [excel/superstore-sales](excel/superstore-sales) |
+| HR attrition dashboard | Excel, pivot tables, KPIs | [excel/hr-analytics](excel/hr-analytics) |
+| Airbnb Europe analysis | Snowflake SQL | [sql/airbnb-europe-snowflake](sql/airbnb-europe-snowflake) |
+| Pizza sales analysis | BigQuery SQL, Looker Studio | [sql/pizza-sales-bigquery](sql/pizza-sales-bigquery) |
+| Google Merchandise Store | GA4, Looker Studio | [ga4-looker-studio/google-merch-store](ga4-looker-studio/google-merch-store) |
+| Employee churn pilot | BigQuery, Python, PyCaret, Looker Studio | [bigquery-ml/employee-churn](bigquery-ml/employee-churn) |
 
-# First page is for Summary reports.
-
-![Screenshot (14)](https://github.com/PervejHosen/PowerBI-Project/assets/117522848/56d1cea2-11ee-4cb6-b034-ada21921dc62)
-
-# Second part is for Customer Analysis
-
-![Screenshot (15)](https://github.com/PervejHosen/PowerBI-Project/assets/117522848/1a46c4cc-83bb-4a65-be09-d663ce0e6090)
-
-# Third part is focused mainly on products
-
+Python and machine learning projects live in [python-ds-projects](https://github.com/PervejHosen/python-ds-projects),
+and study notes in [learning-notes](https://github.com/PervejHosen/learning-notes).
