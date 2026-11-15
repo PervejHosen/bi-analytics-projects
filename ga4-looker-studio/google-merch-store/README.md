@@ -15,15 +15,15 @@ https://lookerstudio.google.com/reporting/00fab26e-4cee-462f-80fc-ef4d6aebf300
 ## Findings:
 ### Summary Page
 
-![Screenshot (8)](https://github.com/PervejHosen/GA4_LockerStudio-Projects/assets/117522848/294455c6-de57-495c-aecb-403cb642f3e2)
+![Screenshot (8)](screenshots/summary.png)
 
 ### Products Page
 
-![Screenshot (9)](https://github.com/PervejHosen/GA4_LockerStudio-Projects/assets/117522848/499e65d0-cc2f-40a7-a68a-07039ba50d2e)
+![Screenshot (9)](screenshots/products.png)
 
 
 ### Website Page
 
-![Screenshot (5)](https://github.com/PervejHosen/GA4_LockerStudio-Projects/assets/117522848/5246d06d-8aad-444d-981a-80d6a82fd8ad)
+![Screenshot (5)](screenshots/website.png)
 
 

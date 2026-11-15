@@ -36,7 +36,7 @@
 # Final Dashboard:
 https://lookerstudio.google.com/s/r3_tDC4tQf8
 
-<img width="468" alt="Screenshot 2023-12-30 215928" src="https://github.com/PervejHosen/BigQuery_PythonML_LookerStudio_Projects/assets/117522848/22b4512c-51e7-4478-9c44-61125007dee2">
+<img width="468" alt="Screenshot 2023-12-30 215928" src="screenshots/churn-dashboard.png">
 
 # Recommendations:
   * Employee Recognition Program:

@@ -18,10 +18,10 @@ Firstly I take the data into power query of excel, Where I clean the data, do da
 
 ### Findings: 
 ### Consolidated data
-![Screenshot (10)](https://github.com/PervejHosen/Excel-Poject/assets/117522848/7bd190a8-3d90-4b55-9d4d-93c077c2c167)
+![Screenshot (10)](screenshots/consolidated-data.png)
 
 ### Sales Analysis
-![Screenshot (11)](https://github.com/PervejHosen/Excel-Poject/assets/117522848/548822a7-72d9-4b1f-8923-58075105475f)
+![Screenshot (11)](screenshots/sales-analysis.png)
 
 ### Products Analysis
-![Screenshot (12)](https://github.com/PervejHosen/Excel-Poject/assets/117522848/11c48c03-abfb-43fa-981a-66c69a064adb)
+![Screenshot (12)](screenshots/product-analysis.png)
